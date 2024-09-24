@@ -1,5 +1,7 @@
 # Personal blog + portfolio starter kit with Next 14
 
+![next14-blog-portfolio](https://github.com/user-attachments/assets/a3d08920-bb01-4de5-996d-f4e929a20934)
+
 I was creating a blog for my personal use using NextJS and Tailwind and decided to extract the basic setup to be used as a template. Most of the templates available are just a starter kit and miss on something or other. This has everything that you need to start a blog:
 
 - NextJS with app router
