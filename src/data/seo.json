@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "next-portfolio-blog",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem.",
+    "keywords": [
+      "next-portfolio-blog",
+      "modern website development",
+      "mobile apps development"
+    ]
+  },
+  "blogs": {
+    "title": "Blog | next-portfolio-blog",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem.",
+    "keywords": [
+      "next-portfolio-blog",
+      "modern website development",
+      "mobile apps development"
+    ]
+  }
+}

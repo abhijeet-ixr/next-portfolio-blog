@@ -1,0 +1,11 @@
+{
+  "primary": [
+    { "name": "Node.JS", "value": 75 },
+    { "name": "React.JS", "value": 75 },
+    { "name": "Next.JS", "value": 65 },
+    { "name": "JavaScript", "value": 70 },
+    { "name": "Docker", "value": 50 },
+    { "name": "Nginx", "value": 50 }
+  ],
+  "secondary": ["React Native", "Redis", "GraphQL", "Ghost CMS", "SQL"]
+}

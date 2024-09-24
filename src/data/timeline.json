@@ -1,0 +1,26 @@
+[
+  {
+    "year": "2010 - 2013",
+    "title": "UG",
+    "subTitle": "College - City",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem."
+  },
+  {
+    "year": "2013 - 2015",
+    "title": "PG",
+    "subTitle": "College - City",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem."
+  },
+  {
+    "year": "June 2018 - Feb 2020",
+    "title": "Software Developer",
+    "subTitle": "Company - Location",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem."
+  },
+  {
+    "year": "Feb 2020 - Present",
+    "title": "Senior Software Developer",
+    "subTitle": "Company - Location",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisl augue, ornare ac pellentesque sit amet, mattis vitae lorem."
+  }
+]

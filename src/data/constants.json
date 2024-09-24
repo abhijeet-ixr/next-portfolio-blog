@@ -1,0 +1,6 @@
+{
+  "CONTACT_EMAIL": "contact_form_target_email",
+  "BASE_URL": "http://localhost:3000",
+  "BASE_URL_BLOG": "http://localhost:3000/blog",
+  "SITE_NAME": "next-portfolio-blog"
+}
