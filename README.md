@@ -1,11 +1,11 @@
-# Personal blog cum portfolio starter kit with Next 14
+# Personal blog cum portfolio starter kit with Next 15
 
 I was creating a blog for my personal use using NextJS and Tailwind and decided to extract the basic setup to be used a template. Most of the templates available are just a starter kit and miss on something or other. This has everything that you need of for starting a blog:
 
 - NextJS with app router
 - MDX
 - Contact API to send emails using Gmail / Nodemailer
-- Tailwind CSS
+- Tailwind CSS 4
 - Tailwind typography
 - Daisy UI
 - Google Analytics

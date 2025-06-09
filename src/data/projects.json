@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "NextJS portfolio blog template",
+    "desc": "Most of the templates available are just a starter kit and miss on something or other. This has everything that you need to start a blog.",
+    "github": "https://github.com/abhijeet-ixr/next-portfolio-blog?tab=readme-ov-file#personal-blog--portfolio-starter-kit-with-next-14",
+    "demo": "",
+    "tech": ["NextJS 15", "MDX", "Tailwind CSS", "Daisy UI", "SEO"],
+    "cover": "/img/blog/cover/1.jpg"
+  }
+]
