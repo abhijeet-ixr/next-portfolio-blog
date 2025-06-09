@@ -18,7 +18,8 @@ const options = {
 
 const components = { a: Link, img: BlogImage };
 
-export default async function BlogDetails({ params: { slug } }) {
+export default async function BlogDetails({ params }) {
+  const { slug } = await params;
   const { content, frontMatter } = getArticleFromSlug(slug);
 
   const jsonLd = jsonLdForBlogPost(
@@ -78,7 +79,8 @@ export async function generateStaticParams() {
   return paths;
 }
 
-export async function generateMetadata({ params: { slug } }) {
+export async function generateMetadata({ params }) {
+  const { slug } = await params;
   const { frontMatter } = getArticleFromSlug(slug);
 
   return {

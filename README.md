@@ -1,4 +1,5 @@
-# Personal blog + portfolio starter kit with Next 14
+# Personal blog cum portfolio starter kit with Next 15
+
 
 ![next14-blog-portfolio](https://github.com/user-attachments/assets/a3d08920-bb01-4de5-996d-f4e929a20934)
 
@@ -7,7 +8,7 @@ I was creating a blog for my personal use using NextJS and Tailwind and decided 
 - NextJS with app router
 - MDX
 - Contact API to send emails using Gmail / Nodemailer
-- Tailwind CSS
+- Tailwind CSS 4
 - Tailwind typography
 - Daisy UI
 - Google Analytics
